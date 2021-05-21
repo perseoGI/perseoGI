@@ -1,6 +1,5 @@
 ### Hi folks 👋
 
-
 - 🔭 I’m currently working on Air Traffic Control at Indra, Spain.
 - 🚀 On my free time I'm developping Dotpyle (a dotfiles manager) and moaar stuff
 - 🌱 I’m currently learning C++ (you never stop)
@@ -9,12 +8,9 @@
 - ⚡ Fun fact: btw I use Arch, btw I use I3, btw I use Neovim, btw btw (stop please)
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perseoGI&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perseoGI&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/perseoGI/github-readme-stats)
- -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/perseoGI">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=perseoGI&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/perseoGI">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perseoGI&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
