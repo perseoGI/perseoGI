@@ -1,6 +1,6 @@
 ### Hi folks 👋
 
-- 🔭 I’m currently working in the core team at Seddi.
+- 🔭 I’m currently working in [conan](https://github.com/conan-io/conan)
 - 🚀 On my free time I'm developping Dotpyle (a dotfiles manager) and moaar stuff
 - 🌱 I’m currently learning C++ (you never stop)
 - 👯 I’m looking to collaborate on Neovim.
